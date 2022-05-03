@@ -1,0 +1,10 @@
+2022-05-04 01:37:23,800 - ERROR - ZeroDivisionError
+Traceback (most recent call last):
+  File "D:\Projects\Python\Logging\main.py", line 12, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2022-05-04 01:37:23,800 - ERROR - Error in dividing
+Traceback (most recent call last):
+  File "D:\Projects\Python\Logging\main.py", line 12, in <module>
+    1/0
+ZeroDivisionError: division by zero
